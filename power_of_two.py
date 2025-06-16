@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # Created By: Joseph Wondimagnehu
-# Date: Month Day, Year
-# Add something.
+# Date: Apr. 30, 2025
+# This program calculates the
+# squared numbers up to the
+# user's desired whole number
+# with a for loop.
 
 
 # Define the main function.
