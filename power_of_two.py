@@ -31,7 +31,7 @@ def main():
         # Otherwise, the entered number is not specifically whole.
         else:
             # Display that the entered number is not a whole number.
-            print(f"{user_whole_number_int} is not a whole number.")
+            print(f"\n{user_whole_number_int} is not a whole number.")
 
     # Runs if int() could not convert the
     # user's string input into an integer.
